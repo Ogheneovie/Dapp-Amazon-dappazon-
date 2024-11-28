@@ -15,6 +15,7 @@ Technology Stack & Tools
 Requirements For Initial Setup
 
 ▪️Install NodeJS
+
 ▪️Install Metamask Browser Extension
 
 Setting Up
