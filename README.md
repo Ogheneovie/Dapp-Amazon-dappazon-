@@ -1,15 +1,19 @@
 # Dapp-Amazon-dappazon-
 
 Technology Stack & Tools
-Solidity (Writing Smart Contracts & Tests)
-Javascript (React & Testing)
-Hardhat (Development Framework)
-Ethers.js (Blockchain Interaction)
-React.js (Frontend Framework)
+▪️Solidity (Writing Smart Contracts & Tests)
+▪️Javascript (React & Testing)
+▪️Hardhat (Development Framework)
+▪️Ethers.js (Blockchain Interaction)
+▪️React.js (Frontend Framework)
+
 Requirements For Initial Setup
 Install NodeJS
+Install Metamask Browser Extension
+
 Setting Up
 1. Clone/Download the Repository
+
 2. Install Dependencies:
 $ npm install
 
