@@ -13,10 +13,12 @@ Technology Stack & Tools
 ▪️React.js (Frontend Framework)
 
 Requirements For Initial Setup
-Install NodeJS
-Install Metamask Browser Extension
+
+▪️Install NodeJS
+▪️Install Metamask Browser Extension
 
 Setting Up
+
 1. Clone/Download the Repository
 
 2. Install Dependencies:
